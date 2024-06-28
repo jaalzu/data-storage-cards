@@ -82,6 +82,7 @@ main .box-1{
     background-color: var(--color-dark-blue);
     min-width: 600px;
     border-radius: 9px;
+    margin-top: 70px;
     max-height: 19.50vh;
     padding-block: 2.8rem;
     padding-left: 3rem;
@@ -230,6 +231,8 @@ margin-right: 5.5rem;
 min-width: 70vw;
 padding-left: 2rem;
 padding-right: 2rem;
+margin-top: 0px;
+
 
 
         }
